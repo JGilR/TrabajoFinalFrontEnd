@@ -31,3 +31,4 @@ Cada carta pertenece a un conjunto (expansion), las cartas clasicas (del conjunt
 
 ## Como lanzar la aplicación
 
+No se por que no me deja subir el frontend
